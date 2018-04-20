@@ -26,6 +26,10 @@ Then run the actual script:
 ./LibManUal.sh
 ```
 
+Ugh, fine, you know what, just watch a video:
+
+[![Screenshot of video](video.png)](https://twitter.com/jamiebuilds/status/987409423244050432)
+
 ## Intellisense
 
 Oh it's very intellisense.
