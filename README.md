@@ -1,4 +1,4 @@
-# Wicrosoft Library Manager Manual
+# Wicrosoft Library Manager Manual Edition 2018
 
 Install and consume 3rd-party client-side libraries with ease-ier.
 
